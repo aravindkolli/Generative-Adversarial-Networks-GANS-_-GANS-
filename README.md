@@ -1,1 +1,1 @@
-# Generative-Adversarial-Networks-GANS-_-GANS-
+# Generative-Adversarial-Networks(GANS)
